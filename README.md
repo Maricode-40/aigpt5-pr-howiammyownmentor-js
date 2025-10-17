@@ -1,6 +1,6 @@
 #Agentic Coding Assistant
 
-## A Brand New Project showcasting my Javascript skills. 
+## Brand New Project showcasing my AI  +  Javascript skills. 
 ---
 
 ## 🧩 Current Learning Modules
@@ -32,4 +32,4 @@ I worked with GPT-5,  GITHUB, VS Code, Copilot, AGENTS.md file. AGENTS file it i
 -------------
 
 Created with ❤️ by Marissa Rico **[<a href="https://www.linkedin.com/in/marissarico" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>]**  
-Guided by **Mentor de JavaScript (Maricode)**
+Guided by **Agentic AI by (Maricode-40).**
