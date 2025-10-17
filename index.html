@@ -7,7 +7,7 @@
     <script src="./js/main.js" defer></script>
 </head>
 <style>
-    button {
+    /* button {
         display: block;
         margin: 0 auto;
         margin-top: 10rem;;
@@ -16,9 +16,17 @@
         border-radius: 15px;
         background-color: #ff35ff;
         color: white;
-    }
+    } */
 </style>
 <body>
+    <div id="toolbar"> 
+        <label for="challenge">Challenge:</label>
+        <select id="challenge">
+            <option value="challenge1_prompt">1</option>
+            <option value="challenge2_dom">2</option>
+        </select>
+        <span id="status" aria-live="polite"></span>
+    </div>
     <div id="app"></div>
     <button id="ask-btn" type="button"> Tell me your name </button>
 </body>

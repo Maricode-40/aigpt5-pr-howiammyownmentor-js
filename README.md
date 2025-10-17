@@ -1,6 +1,6 @@
-#Agentic Coding Assistant
+# Agentic Coding Assistant
 
-## Brand New Project showcasing my AI  +  Javascript skills. 
+### Brand New Project showcasing my AI  +  Javascript skills. 
 ---
 
 ## 🧩 Current Learning Modules
