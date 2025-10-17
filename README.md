@@ -27,7 +27,7 @@
 
 ####  Tools: 🔬⚒️
 
-I worked with GPT-5,  GITHUB, VS Code, Copilot, AGENTS.md file. AGENTS file it is a standard file format (markdown) that the community began using to define how an agent (AI mentor, assistant, bot, etc.) should behave.
+I worked with GPT-5Pro, GITHUB, VS Code, Copilot, AGENTS.md file. AGENTS file it is a standard file format (markdown) that the community began using to define how an agent (AI mentor, assistant, bot, etc.) should behave.
 
 -------------
 
