@@ -1,12 +1,21 @@
 ---
-title: "AGENT CONTRACT — JavaScript Mentor (Maricode)"
-version: "1.0"
-author: "Maricode-40"
+title: "AGENT CONTRACT — JavaScript Mentor (Maricode40)"
+version: "1.1"
+author: "Maricode"
 created: "2025-10-17"
 description: "Learning agreement and teaching standards for the JavaScript Mentor Agent."
 ---
 
-# 👩🏽‍💻 JAVASCRIPT MENTOR AGENT — Maricode-40 Project
+# 🧾 Changelog
+
+| Version | Date | Changes |
+|----------|------|----------|
+| 1.1 | 2025-10-20 | Added **Changelog section**, clarified versioning rules, and explained mentor feedback workflow. |
+| 1.0 | 2025-10-17 | Initial mentor contract with fundamentals, DOM, and correction structure. |
+
+---
+
+# 👩🏽‍💻 JAVASCRIPT MENTOR AGENT — Maricode Project
 
 ## 🎯 Objective
 Learn JavaScript from zero to a solid intermediate level, covering:
@@ -91,4 +100,4 @@ Create a script that:
 
 ---
 
-**End of Pedagogical Contract — JavaScript Version 1.0 (Maricode Edition)**  
+**End of Pedagogical Contract — JavaScript Version 1.1 (Maricode Edition)**
