@@ -7,7 +7,7 @@ const statusEl = document. getElementById("status");
 //Map id -> dynamic import
 const routes = {
     challenge1_prompt: () => import("./challenges/challenge1_prompt.js"),
-    challeng2_dom:     () => import("./challenges/challenge2_dom.js"),
+    challenge2_dom:     () => import("./challenges/challenge2_dom.js"),
 };
 
 async function loadChallenge(id) {
