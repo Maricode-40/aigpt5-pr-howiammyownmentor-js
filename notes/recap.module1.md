@@ -1,5 +1,5 @@
 
-💬 *Status:* Module 1  complete — you’ve built a dynamic loader, practiced modular imports, and learned modern declaration standards (`let` & `const`  and `function` ).  
+💬 *Status:* Module 1  complete — you’ve built a dynamic loader, practiced modular imports, and learned modern declaration standards (`let`  `const`  & `function` ).  
 
 💬 *Status: Module 2 complete — Challenge 2: Dynamic DOM & Module Loader.  
 ✅ What you built --- A modular JavaScript app architecture that dynamically loads exercises (challenges) from separate JS files — no page reloads, just smart module imports.
