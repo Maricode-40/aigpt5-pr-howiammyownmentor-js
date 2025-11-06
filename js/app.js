@@ -15,8 +15,8 @@ async function loadChallenge(id) {
     statusEl.textContent = "";                 //clear placeholder
     try {
         const mod = await routes[id]();
-        console.log("Selected ID:", id);
-        console.log("Available routes:", Object.keys(routes));
+        // console.log("Selected ID:", id);
+        // console.log("Available routes:", Object.keys(routes));
 
         appEl.innerHTML = "";
         mod.init(app);
