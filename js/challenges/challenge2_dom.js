@@ -11,7 +11,7 @@ export function init(root) {
     if (name && name.trim() !== "") {
       const message = `Hello, ${name.trim()}! Welcome to the world of JavaScript 🌎`;
       output.textContent = message;
-      console.log(`Greeted: ${name.trim()}`);
+      // console.log(`Greeted: ${name.trim()}`);
     } else {
       output.textContent = "Please enter a valid name.";
     }
