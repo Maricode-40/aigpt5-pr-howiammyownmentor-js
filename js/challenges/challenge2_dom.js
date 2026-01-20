@@ -1,4 +1,4 @@
-// js/challenges/challenge2_dom.js
+// js/challenge2/
 export function init(root) {
   root.innerHTML = `
     <button id="ask-btn">Click me</button>
