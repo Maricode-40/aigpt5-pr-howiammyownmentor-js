@@ -9,6 +9,7 @@ const routes = {
   challenge1_prompt: () => import("./challenges/challenge1_prompt.js"),
   challenge2_dom: () => import("./challenges/challenge2_dom.js"),
   challenge3_variables: () => import("./challenges/challenge3_variables.js"),
+  challenge4_events: () => import("./challenges/challenge4_events.js"),
 };
 
 async function loadChallenge(id) {
